@@ -1,0 +1,37 @@
+[
+    {
+        "id": "105",
+        "skills": ["saas", "supply chain", "logistics", "tms experience", "identify business opportunities", "sales activities", "presentations", "close deals", "collaborative mentality", "lead others"],
+        "benefits": ["comprehensive medical", "401k", "pto", "dental", "commuter benefits", "monthly mingles", "game room"]
+    },
+    {
+        "id": "1620",
+        "skills": ["project management", "implement marketing strategies", "engage with stakeholders", "lead others", "b2b saas sales", "adwords", "social media advertising", "excel", "google analytics", "data visualization", "tableau", "sql", "digital advertising", "communication", "search engine optimisation", "presentation", "writing", "html", "css", "javascript", "salesforce crm"],
+        "benefits": ["high-growth work environment", "fully stocked fridge", "snacks", "open workspace"]
+    },
+    {
+        "id": "2189",
+        "skills": ["saas", "manage team", "lead team", "create high performing teams", "communication", "organization skills", "presentation", "consultative selling", "engage with stakeholders", "strategic planning"],
+        "benefits": ["competitive salary", "medical insurance", "dental", "401k", "stocked kitchen", "flexible work hours"]
+    },
+    {
+        "id": "2388",
+        "skills": ["selling software products", "saas", "market research", "time-management", "customer service", "presentation", "organization", "communication", "sales skills", "microsoft apps", "spanish", "provide mentorship"],
+        "benefits": ["competitive salary", "medical insurance", "dental", "health compensation", "wellness compensation", "transportation"]
+    },
+    {
+        "id": "3307",
+        "skills": ["quality assurance procedures", "develop automated software tests", "oop", "python", "java", "c#", "test frameworks", "web applications", "database", "unix", "continuous integration", "agile", "scrum", "troubleshoot"],
+        "benefits": ["competitive salary", "stock options", "medical insurance", "dental", "transportation", "social events", "friday lunches", "hackathons", "stocked kitchen", "comfortable working space"]
+    },
+    {
+        "id": "3939",
+        "skills": ["cyber security", "sales engineering", "operating systems", "internet of things", "business intelligence", "linux", "windows", "ssh", "server configuration", "written skills", "give live presentation", "bilingual", "wi-fi protocols", "communication"],
+        "benefits": ["competitive salary", "transportation", "medical insurance", "dental", "401k"]
+    },
+    {
+        "id": "5969",
+        "skills": ["problem-solving", "communication", "google apps", "multi-tasking", "remote troubleshooting", "presentation", "negotiate sales contracts", "manage accounts", "sales activities", "prepare reports"],
+        "benefits": ["401k", "commuter benefits", "dental", "health insurance", "dog-friendly office"]
+    }
+]
